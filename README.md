@@ -12,6 +12,7 @@ Recent advances in long-read sequencing have the potential to produce more compl
 
 ### Soap3: GPU aligner
 
+### Canu
 
 ## Inputs
 
@@ -30,7 +31,7 @@ Reference Genome
 
 ### Align Kmers to Sequencing reads
 
-###Sort Reads into Bins
+### Sort Reads into Bins
 
 ### Assemble Bins
 
@@ -40,7 +41,7 @@ Reference Genome
 
 ## Citations
 
-##Other Resources
+## Other Resources
 
 ## Issues 
 
